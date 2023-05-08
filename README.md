@@ -1,0 +1,2 @@
+# CIFAR5 Models
+This project attempts to learn a subset of the CIFAR10 dataset, namely CIFAR5. This subset includes all of the animal classes from CIFAR10 except frogs. A final accuracy of 88.1% was achieved using a VGG style architecture.
